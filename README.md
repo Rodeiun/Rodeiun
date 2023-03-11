@@ -27,6 +27,8 @@ src="https://img.shields.io/github/followers/Rodeiun?logo=github&style=for-the-b
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://www.vektorelbilisim.com/images/kurslar/c-sharp-kursu.webp" width="36" height="36" alt="C#" /></a>
+<a href="https://github.com/jquery" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" width="36" height="36" alt="JQuery" /></a>
+<a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png" width="36" height="36" alt="ReactJS" /></a>
 
 </p>
 
