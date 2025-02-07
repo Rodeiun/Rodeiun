@@ -1,10 +1,8 @@
 Osman, Rodeiun.
 ============================
 
-Junior Web / Software Developer
+Lawment / Development & Innovation
 --------------------------
-
-20 October 2005, my born date. I'm interest software since my childhood.
 
 <a href="https://www.github.com/Rodeiun" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Rodeiun?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -37,7 +35,7 @@ src="https://img.shields.io/github/followers/Rodeiun?logo=github&style=for-the-b
 
 <p align="left">
 <a href="https://www.github.com/Rodeiun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-<a href="https://www.instagram.com/rodeiun/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.instagram.com/osmnncakr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://twitter.com/rodeiunw target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 <a href="https://open.spotify.com/user/2p4lpcpldhtqt154i30n094mt?si=d637b491a88d4758" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM=w240-h480" width="32" height="32" /></a>
 <a href="https://stackoverflow.com/users/21348323/rodeiun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
