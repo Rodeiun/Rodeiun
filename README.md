@@ -11,7 +11,7 @@ src="https://img.shields.io/github/followers/Rodeiun?logo=github&style=for-the-b
 
 * 🌍  I'm based in Izmir, Turkey
 * ✉️  You can contact me at [rodeiun1@gmail.com](mailto:rodeiun1@gmail.com)
-* 🧠  I'm finished high school, preparing university exam.
+* 🧠  I study Law at Yasar University and working on İkise Hukuk & Danışmanlık Office
 
 ### Skills
 
